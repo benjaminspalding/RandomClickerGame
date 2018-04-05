@@ -1,0 +1,10 @@
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\bin\Debug\RandomClickerRacing.exe.config
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\bin\Debug\RandomClickerRacing.exe
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\bin\Debug\RandomClickerRacing.pdb
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.csprojResolveAssemblyReference.cache
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.Form1.resources
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.Properties.Resources.resources
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.csproj.GenerateResource.Cache
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.csproj.CoreCompileInputs.cache
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.exe
+c:\users\enter the dungeon\documents\visual studio 2017\Projects\RandomClickerRacing\RandomClickerRacing\obj\Debug\RandomClickerRacing.pdb
